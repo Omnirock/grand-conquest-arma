@@ -1,0 +1,19 @@
+onLoadName = "Grand Conquest Arma";
+author = "Omnirock, Theseus Inc.";
+OnLoadMission = "Shapur Night";
+
+overviewText = "Grand Conquest Arma";
+
+class Header {
+    gameType = GQA;
+    minPlayers = 1;
+    maxPlayers = 20;
+};
+
+respawn = "BASE"; // BASE (3) Respawn on markers "respawn_guerilla". Multiple markers possible. If no marker present, player respawns where he started the mission.
+respawnButton = 1; // Respawn button enabled
+respawnDelay = 15; // Delay in seconds before playable unit respawns.
+respawnDialog = 0; // 0/1 to disable the scoreboard from showing automatically
+
+disabledAI = 1; // Disables AI for Playable Units
+enableDebugConsole = 1; // Enables Debug Console in Pause menu (1 = Hosts and Admins)
