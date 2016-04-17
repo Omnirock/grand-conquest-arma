@@ -2,13 +2,13 @@
 
 **Mission Details**
 
-BLUFOR: United States Marines
-OPFOR: Takistani Army
-Time: Sept. 22. 2022 22:22:22
-Location: Shapur (Desert/Urban)
-Land Vehicles: Yes
-Air Vehicles: No
-Sea Vehicles: N/A
+- BLUFOR: United States Marines
+- OPFOR: Takistani Army
+- Time: Sept. 22. 2022 22:22:22
+- Location: Shapur (Desert/Urban)
+- Land Vehicles: Yes
+- Air Vehicles: No
+- Sea Vehicles: N/A
 
 **Notes**
 
