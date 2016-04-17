@@ -1,6 +1,6 @@
- ** SHAPUR NIGHT ** 
+### SHAPUR NIGHT
 
- * Mission Details * 
+**Mission Details**
 
 BLUFOR: United States Marines
 OPFOR: Takistani Army
@@ -10,6 +10,6 @@ Land Vehicles: Yes
 Air Vehicles: No
 Sea Vehicles: N/A
 
- * Notes * 
+**Notes**
 
 - Version 0.10 (pre-alpha) - March 16 2016 - Initial Commit
