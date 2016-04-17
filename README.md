@@ -1,4 +1,4 @@
-# grand-conquest-arma
+### Grand Conquest Arma
 
 **Required Mods**
 
